@@ -66,11 +66,7 @@ Examines average vaccination rates across countries and highlights differences i
 - KPI Development
 - Analytical Storytelling
 
----
 
-## Dashboard Preview
-
-![COVID-19 Dashboard](dashboard-preview.png)
 
 ---
 
